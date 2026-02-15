@@ -40,7 +40,7 @@ coverage/
 .nyc_output/
 
 # Prisma
-backend/prisma/migrations/*_*/
+#backend/prisma/migrations/*_*/
 *.db
 *.db-journal
 
